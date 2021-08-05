@@ -3,8 +3,8 @@ Prediction of lung cancer using CNN
 
 
 Firstly, Lung CT images are collected initially to classify them as normal or abnormal. These images are in the format of .dat file.
-Then data processing is applied to improve the quality of the images. After this training and testing of the artificial neural network is done using available database.
-Once the neural network is ready backpropogation algorithm is used as follows:
+Then data processing is applied to improve the quality of the images. After this training, the testing of the convolutional neural network is done using available database.
+Once the cnn is ready backpropogation algorithm is used as follows:
 
 1. Initialize the weights arbitrarily.
 2.Present and input vector pattern to the network.
